@@ -7,7 +7,7 @@ https://technical.city/en/video
 # CPU, GPU, SSD, HDD, RAM, etc Comparison
 https://www.userbenchmark.com/
 
-> Also better to check comparison videos on YouTube is better
+> Also better to check comparison videos on YouTube
 
 # Amazon - 'Build Your Own PC'
 https://www.amazon.in/stores/page/2F60A254-F534-44A1-902B-2608645C4237
