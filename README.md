@@ -54,7 +54,9 @@ The Graphics Card should be capable of OC (Overclocking)
 
 # After PC Build
 > Make sure all the plugs are connected and well after building before turning on the power.
+
 >Don't overclock before installing OS; you must do so after in BIOS settings(XMP-Extreme Memory Profile)
+
 1. Install OS
 2. Install graphics driver for particular graphics card
 3. Install the chipset driver for the particular ship
