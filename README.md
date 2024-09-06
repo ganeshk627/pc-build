@@ -21,18 +21,39 @@ https://www.amazon.in/stores/page/2F60A254-F534-44A1-902B-2608645C4237
 4. SMPS
 
 
+
 # Other components
 5. RAM
 6. SSD
 7. Cabinet
 8. Cooler (if CPU 65watt<)
-9. Monitor
-10. Keyboard and mouse
+9. Thermal Paste
+10. Screwdrivers
+11. Monitor
+12. Keyboard and mouse
+
+
+
+# Installation
+## Motherboard
+The motherboard should be capable of OC (Overclocking)
+
+## Processor
+Need more patience other say boi boi to your Processor.
+Apply the thermal paste
+
+## RAM
+Always use the second slot if we have more RAM slots than we will install.
+It is always better to use splitted RAM to utilize the RAM slot(s)
+
+## Graphics Card
+The Graphics Card should be capable of OC (Overclocking)
 
 
 
 
 # After PC Build
+> Make sure all the plugs are connected and well after building before turning on the power.
 >Don't overclock before installing OS; you must do so after in BIOS settings(XMP-Extreme Memory Profile)
 1. Install OS
 2. Install graphics driver for particular graphics card
