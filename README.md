@@ -8,7 +8,7 @@ https://technical.city/en/video
 # CPU, GPU, SSD, HDD, RAM, etc Comparison
 https://www.userbenchmark.com/
 
-> Also better to check comparison videos on YouTube
+> Also, it is better to check comparison videos on YouTube
 
 # Amazon - 'Build Your Own PC'
 https://www.amazon.in/stores/page/2F60A254-F534-44A1-902B-2608645C4237
@@ -41,24 +41,32 @@ https://www.amazon.in/stores/page/2F60A254-F534-44A1-902B-2608645C4237
 
 # Installation
 ## Motherboard
-The motherboard should be capable of OC (Overclocking)
+- Supports Intel(11th/12th/13th Generation) or AMD Ryzen(am4/am5)
+- The motherboard should be capable of OC (Overclocking)
+- Check for Wifi integrated
+- No of ram slots
+- No of SSD/SATA slots
+
 
 ## Processor
-Need more patience other say boi boi to your Processor.
-Apply the thermal paste
+- Check processor needs an additional cooler or not.
+- Check processor has integrated graphics(if needed)
+- Need more patience installing it otherwise say boi boi to your Processor.
+- Apply the thermal paste.
 
 ## RAM
-Always use the second slot if we have more RAM slots than we will install.
-It is always better to use splitted RAM to utilize the RAM slot(s)
+- Check processor details to determine memory type (ddr3/ddr4/ddr5) and memory speed(3200Mhz/5200Mhz etc)
+- Always use the second slot if we have more RAM slots than we will install.
+- It is always better to use splitted RAM to utilize the RAM slot(s)
 
 ## Graphics Card
-The Graphics Card should be capable of OC (Overclocking)
+- The Graphics Card should be capable of OC (Overclocking)
 
 
 
 
 # After PC Build
-> Make sure all the plugs are connected and well after building before turning on the power.
+> Make sure all the plugs are connected well after building and before turning on the power.
 
 >Don't overclock before installing OS; you must do so after in BIOS settings(XMP-Extreme Memory Profile)
 
