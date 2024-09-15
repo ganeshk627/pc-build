@@ -13,6 +13,12 @@ https://www.userbenchmark.com/
 # Amazon - 'Build Your Own PC'
 https://www.amazon.in/stores/page/2F60A254-F534-44A1-902B-2608645C4237
 
+# Build from ```A2D PC Factory```
+https://www.a2dpcfactory.com/
+
+# Build from Bitkart
+https://bitkart.com/custom-rig-final.html
+
 # Customize our Lenovo Laptop and get 3000 off using ```CUSTOMOFF``` coupon code
 - [Customize Your Lenovo PC/ Tower](https://www.lenovo.com/in/en/d/customise-to-order/?IPromoID=LEN882287)
 - [Build Your Lenovo LOQ 12th Gen, 39.62cms - Intel(GeForce RTX™ 2050)](https://www.lenovo.com/in/en/p/laptops/loq-laptops/lenovo-loq-15iax9/83gscto1wwin1)
