@@ -2,6 +2,7 @@
 
 # CPU and GPU Comparison Websites
 https://technical.city/en/cpu/
+
 https://technical.city/en/video
 
 # CPU, GPU, SSD, HDD, RAM, etc Comparison
@@ -13,7 +14,9 @@ https://www.userbenchmark.com/
 https://www.amazon.in/stores/page/2F60A254-F534-44A1-902B-2608645C4237
 
 # Customize our Lenovo Laptop and get 3000 off using ```CUSTOMOFF``` code
-(Build Your Lenovo LOQ 12th Gen, 39.62cms - Intel)[https://www.lenovo.com/in/en/configurator/cto/index.html?bundleId=83GSCTO1WWIN1]
+[Customize Your Lenovo PC/ Tower](https://www.lenovo.com/in/en/d/customise-to-order/?IPromoID=LEN882287)
+[Build Your Lenovo LOQ 12th Gen, 39.62cms - Intel(GeForce RTX™ 2050)](https://www.lenovo.com/in/en/p/laptops/loq-laptops/lenovo-loq-15iax9/83gscto1wwin1)
+[Build Your Lenovo LOQ 14th Gen, 39.62cms - Intel(Arc™ A530M)](https://www.lenovo.com/in/en/p/laptops/loq-laptops/lenovo-loq-iax9i-gen-9-15-inch-intel/83fqcto1wwin1)
 
 
 # 4 Components should never be compromised
