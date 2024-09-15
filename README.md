@@ -41,15 +41,15 @@ https://www.amazon.in/stores/page/2F60A254-F534-44A1-902B-2608645C4237
 
 # Installation
 ## Motherboard
-- Supports Intel(11th/12th/13th Generation) or AMD Ryzen(am4/am5)
+- Supports Intel(11th/12th/13th Generation) or AMD Ryzen(am4/am5) based on processor selection
 - The motherboard should be capable of OC (Overclocking)
 - Check for Wifi integrated
-- No of ram slots
-- No of SSD/SATA slots
+- Check No. of RAM slots
+- Check No. of SSD/SATA slots
 
 
 ## Processor
-- Check processor needs an additional cooler or not.
+- Check whether the processor needs an additional cooler or not.
 - Check processor has integrated graphics(if needed)
 - Need more patience installing it otherwise say boi boi to your Processor.
 - Apply the thermal paste.
@@ -57,18 +57,25 @@ https://www.amazon.in/stores/page/2F60A254-F534-44A1-902B-2608645C4237
 ## RAM
 - Check processor details to determine memory type (ddr3/ddr4/ddr5) and memory speed(3200Mhz/5200Mhz etc)
 - Always use the second slot if we have more RAM slots than we will install.
-- It is always better to use splitted RAM to utilize the RAM slot(s)
+- It is always better to split the RAM sizes to utilize the RAM slot(s)
 
 ## Graphics Card
 - The Graphics Card should be capable of OC (Overclocking)
 
+## Cabinet
+- Decide cabinet based on motherboard type (ATX, mATX, ITX)
+- Check cabinet needs extra fans sized 92mm/120mm/140mm
+> ATX is better for all the types of motherboard
 
+## Cooling
+- Water cooling is better for gaming but it's costly and efficient
+- Air-cooling fan is enough for productivity and the CPU power is less than 65 watts since it is low cost.
 
 
 # After PC Build
 > Make sure all the plugs are connected well after building and before turning on the power.
 
->Don't overclock before installing OS; you must do so after in BIOS settings(XMP-Extreme Memory Profile)
+> Don't overclock before installing OS; you must do so after in BIOS settings(XMP-Extreme Memory Profile)
 
 1. Install OS
 2. Install graphics driver for particular graphics card
