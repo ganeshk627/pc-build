@@ -18,26 +18,21 @@ https://www.amazon.in/stores/page/2F60A254-F534-44A1-902B-2608645C4237
 - [Build Your Lenovo LOQ 12th Gen, 39.62cms - Intel(GeForce RTX™ 2050)](https://www.lenovo.com/in/en/p/laptops/loq-laptops/lenovo-loq-15iax9/83gscto1wwin1)
 - [Build Your Lenovo LOQ 14th Gen, 39.62cms - Intel(Arc™ A530M)](https://www.lenovo.com/in/en/p/laptops/loq-laptops/lenovo-loq-iax9i-gen-9-15-inch-intel/83fqcto1wwin1)
 
-
-# 4 Components should never be compromised
+# Components for our PC
+## 4 Components should never be compromised
 1. Motherboard
-2. Processor
+2. Processor (CPU)
 3. Graphics Card (if gaming and editing)
-4. SMPS
-
-
-
-# Other components
-5. RAM
-6. SSD
+4. SMPS (PSU - Power Supply Unit)
+## Other components
+5. RAM/Memory
+6. SSD/ HDD Storage
 7. Cabinet
 8. Cooler (if CPU 65watt<)
 9. Thermal Paste
 10. Screwdrivers
 11. Monitor
 12. Keyboard and mouse
-
-
 
 # Installation
 ## Motherboard
