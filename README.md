@@ -60,7 +60,7 @@ https://www.amazon.in/stores/page/2F60A254-F534-44A1-902B-2608645C4237
 ## Cabinet
 - Decide cabinet based on motherboard type (ATX, mATX, ITX)
 - Check cabinet needs extra fans sized 92mm/120mm/140mm
-> ATX is better for all the types of motherboard
+> ATX is supported for all the types of motherboard
 
 ## Cooling
 - Water cooling is better for gaming but it's costly and efficient
