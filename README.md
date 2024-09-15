@@ -12,6 +12,8 @@ https://www.userbenchmark.com/
 # Amazon - 'Build Your Own PC'
 https://www.amazon.in/stores/page/2F60A254-F534-44A1-902B-2608645C4237
 
+# Customize our Lenovo Laptop and get 3000 off using ```CUSTOMOFF``` code
+(Build Your Lenovo LOQ 12th Gen, 39.62cms - Intel)[https://www.lenovo.com/in/en/configurator/cto/index.html?bundleId=83GSCTO1WWIN1]
 
 
 # 4 Components should never be compromised
