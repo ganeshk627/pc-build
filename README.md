@@ -1,4 +1,4 @@
-# pc-build
+
 
 # CPU and GPU Comparison Websites
 https://technical.city/en/cpu/
@@ -16,7 +16,7 @@ https://www.amazon.in/stores/page/2F60A254-F534-44A1-902B-2608645C4237
 # Build from ```A2D PC Factory```
 https://www.a2dpcfactory.com/
 
-# Build from Bitkart
+# Build from ```Bitkart```
 https://bitkart.com/custom-rig-final.html
 
 # Customize our Lenovo Laptop and get 3000 off using ```CUSTOMOFF``` coupon code
@@ -51,7 +51,7 @@ https://bitkart.com/custom-rig-final.html
 
 ## Processor
 - Check whether the processor needs an additional cooler or not.
-- Check processor has integrated graphics(if needed)
+- Check that the processor has integrated graphics(if needed)
 - Need more patience installing it otherwise say boi boi to your Processor.
 - Apply the thermal paste.
 
@@ -66,10 +66,10 @@ https://bitkart.com/custom-rig-final.html
 ## Cabinet
 - Decide cabinet based on motherboard type (ATX, mATX, ITX)
 - Check cabinet needs extra fans sized 92mm/120mm/140mm
-> ATX is supported for all the types of motherboard
+> ATX is supported for all types of motherboard
 
 ## Cooling
-- Water cooling is better for gaming but it's costly and efficient
+- Water cooling is better for gaming even if it's costly but efficient
 - Air-cooling fan is enough for productivity and the CPU power is less than 65 watts since it is low cost.
 
 
