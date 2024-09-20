@@ -42,7 +42,9 @@ https://bitkart.com/custom-rig-final.html
 
 # Installation
 ## Motherboard
-- Supports Intel(11th/12th/13th Generation) or AMD Ryzen(am4/am5) based on processor selection
+- Supports Intel(LGA1151(8th-9th)/LGA1200(10th-11th)/LGA1700(12th-13th)) or AMD Ryzen(am4/am5) based on processor selection
+- Intel chip motherboards starts with Z(High)/B(Medium)/H(Low)
+- AMD chip motherboards starts with X(High), B(Lower)
 - The motherboard should be capable of OC (Overclocking)
 - Check for Wifi integrated
 - Check No. of RAM slots
