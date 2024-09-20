@@ -50,8 +50,8 @@ https://bitkart.com/custom-rig-final.html
 
 ## Motherboard
 - Supports Intel(LGA1151(8th-9th)/LGA1200(10th-11th)/LGA1700(12th-13th)) or AMD Ryzen(am4/am5) based on processor selection
-- Intel chip motherboards starts with Z(High)/B(Medium)/H(Low)
-- AMD chip motherboards starts with X(High), B(Lower)
+- Intel chip motherboards starts with Z#90(High)/B#60(Mid)/H#10(Low)
+- AMD chip motherboards starts with X#70(High), B#50(Mid), A#20(Low)
 - The motherboard should be capable of OC (Overclocking)
 - Check for Wifi integrated
 - Check for PCLe generation (5th Gen is better)
