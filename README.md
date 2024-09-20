@@ -54,7 +54,8 @@ https://bitkart.com/custom-rig-final.html
 - AMD chip motherboards starts with X(High), B(Lower)
 - The motherboard should be capable of OC (Overclocking)
 - Check for Wifi integrated
-- Check No. of RAM slots
+- Check for PCLe generation (5th Gen is better)
+- Check No. of RAM slots (4 slots better)
 - Check No. of SSD/SATA slots
 - Best motherboard brands are ASUS, MSI, GIGABYTE, ASRock, BIOSTAR, NZXT, etc.
 
