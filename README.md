@@ -72,6 +72,15 @@ https://bitkart.com/custom-rig-final.html
 - Water cooling is better for gaming even if it's costly but efficient
 - Air-cooling fan is enough for productivity and the CPU power is less than 65 watts since it is low cost.
 
+## PSU 
+Select at least gold grade PSU.
+- 80 Plus White
+- 80 Plus Bronze
+- 80 Plus Silver
+- 80 Plus Gold
+- 80 Plus Platinum
+- 80 Plus Titanium
+
 
 # After PC Build
 > Make sure all the plugs are connected well after building and before turning on the power.
