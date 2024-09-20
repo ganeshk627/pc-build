@@ -41,6 +41,13 @@ https://bitkart.com/custom-rig-final.html
 12. Keyboard and mouse
 
 # Installation
+
+## Processor
+- Check whether the processor needs an additional cooler or not.
+- Check that the processor has integrated graphics(if needed)
+- Need more patience installing it otherwise say boi boi to your Processor.
+- Apply the thermal paste.
+
 ## Motherboard
 - Supports Intel(LGA1151(8th-9th)/LGA1200(10th-11th)/LGA1700(12th-13th)) or AMD Ryzen(am4/am5) based on processor selection
 - Intel chip motherboards starts with Z(High)/B(Medium)/H(Low)
@@ -49,13 +56,7 @@ https://bitkart.com/custom-rig-final.html
 - Check for Wifi integrated
 - Check No. of RAM slots
 - Check No. of SSD/SATA slots
-
-
-## Processor
-- Check whether the processor needs an additional cooler or not.
-- Check that the processor has integrated graphics(if needed)
-- Need more patience installing it otherwise say boi boi to your Processor.
-- Apply the thermal paste.
+- Best motherboard brands are ASUS, MSI, GIGABYTE, ASRock, BIOSTAR, NZXT, etc.
 
 ## RAM
 - Check processor details to determine memory type (ddr3/ddr4/ddr5) and memory speed(3200Mhz/5200Mhz etc)
