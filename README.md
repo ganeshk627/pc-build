@@ -60,7 +60,7 @@ https://bitkart.com/custom-rig-final.html
 - Check No. of RAM slots (4 slots better).
 - Check No. of SSD/SATA slots.
 - The best motherboard brands are ASUS, MSI, GIGABYTE, ASRock, BIOSTAR, NZXT, etc.
-> Not all the motherboards supports all the processor's brands and generation/series, be specific.
+> Not all the motherboards support all the processor's brands and generation/series, be specific.
 
 ## RAM
 - Check processor details to determine memory type (ddr3/ddr4/ddr5), CAS Latency (CL40/CL36) and memory speed(3200Mhz/5600Mhz/6000Mhz etc)
@@ -69,7 +69,7 @@ https://bitkart.com/custom-rig-final.html
 - The best RAM brands are Corsair (Vengeance), GSKILL(Trident, Ripjaws), Kingston (Fury), Crucial (Ballistix), Samsung, Adata, etc.
 
 ## SSD
-- Best SSD brands are Crucial, Western Digital Blue, Solidigm, Corsair, ADATA, Samsung, Kingston, Seagate, etc.
+- The best SSD brands are Crucial, Western Digital Blue, Solidigm, Corsair, ADATA, Samsung, Kingston, Seagate, etc.
 
 ## Graphics Card
 - The Graphics Card should be capable of OC (Overclocking)
