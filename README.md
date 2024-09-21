@@ -19,6 +19,9 @@ https://www.a2dpcfactory.com/
 # Build from ```Bitkart```
 https://bitkart.com/custom-rig-final.html
 
+# Pick Your PC Parts
+https://uk.pcpartpicker.com/list/
+
 # Customize our Lenovo Laptop and get 3000 off using ```CUSTOMOFF``` coupon code
 - [Customize Your Lenovo PC/ Tower](https://www.lenovo.com/in/en/d/customise-to-order/?IPromoID=LEN882287)
 - [Build Your Lenovo LOQ 12th Gen, 39.62cms - Intel(GeForce RTX™ 2050)](https://www.lenovo.com/in/en/p/laptops/loq-laptops/lenovo-loq-15iax9/83gscto1wwin1)
