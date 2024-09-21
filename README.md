@@ -60,7 +60,7 @@ https://bitkart.com/custom-rig-final.html
 - The best motherboard brands are ASUS, MSI, GIGABYTE, ASRock, BIOSTAR, NZXT, etc.
 
 ## RAM
-- Check processor details to determine memory type (ddr3/ddr4/ddr5) and memory speed(3200Mhz/5200Mhz etc)
+- Check processor details to determine memory type (ddr3/ddr4/ddr5), CAS Latency (CL40/CL36) and memory speed(3200Mhz/5600Mhz/6000Mhz etc)
 - Always use the second slot if we have more RAM slots than we will install.
 - It is always better to split the RAM sizes to utilize the RAM slot(s)
 - The best RAM brands are Corsair (Vengeance), GSKILL(Trident, Ripjaws), Kingston (Fury), Crucial (Ballistix), Samsung, Adata, etc.
