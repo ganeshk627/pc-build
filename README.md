@@ -57,16 +57,16 @@ https://bitkart.com/custom-rig-final.html
 - Check for PCLe generation (5th Gen is better)
 - Check No. of RAM slots (4 slots better)
 - Check No. of SSD/SATA slots
-- Best motherboard brands are ASUS, MSI, GIGABYTE, ASRock, BIOSTAR, NZXT, etc.
+- The best motherboard brands are ASUS, MSI, GIGABYTE, ASRock, BIOSTAR, NZXT, etc.
 
 ## RAM
 - Check processor details to determine memory type (ddr3/ddr4/ddr5) and memory speed(3200Mhz/5200Mhz etc)
 - Always use the second slot if we have more RAM slots than we will install.
 - It is always better to split the RAM sizes to utilize the RAM slot(s)
-- Best RAM brands are Corsair (Vengeance), GSKILL(Trident, Ripjaws), Kingston (Fury), Crucial (Ballistix), Samsung, Adata, etc.
+- The best RAM brands are Corsair (Vengeance), GSKILL(Trident, Ripjaws), Kingston (Fury), Crucial (Ballistix), Samsung, Adata, etc.
 
 ## SSD
-- Best SSD brands are Crucial, Western Digital Blue, Solidigm, Corsair, ADATA, Samsung, etc.
+- Best SSD brands are Crucial, Western Digital Blue, Solidigm, Corsair, ADATA, Samsung, Kingston, Seagate, etc.
 
 ## Graphics Card
 - The Graphics Card should be capable of OC (Overclocking)
