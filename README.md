@@ -50,15 +50,17 @@ https://bitkart.com/custom-rig-final.html
 - Apply the correct amount of thermal paste while installing the cooler.
 
 ## Motherboard
-- Select the one which supports Intel(LGA1151(8th-9th)/LGA1200(10th-11th)/LGA1700(12th-13th)) or AMD Ryzen(am4/am5) based on processor selection
-- Intel chip motherboards starts with Z#90(High)/B#60(Mid)/H#10(Low)
-- AMD chip motherboards starts with X#70(High), B#50(Mid), A#20(Low)
-- The motherboard should be capable of OC (Overclocking)
-- Check for Wifi integrated
-- Check for PCLe generation (5th Gen is better)
-- Check No. of RAM slots (4 slots better)
-- Check No. of SSD/SATA slots
+- Decide the size of the motherboard (Mini-ITX, Micro-ATX, ATX, E-ATX)
+- Select by either supports Intel(LGA1151(8th-9th)/LGA1200(10th-11th)/LGA1700(12th-13th)) or AMD Ryzen(am4/am5) based on processor selection.
+  - Intel chip motherboards starts with Z#90(High)/B#60(Mid)/H#10(Low)
+  - AMD chip motherboards starts with X#70(High), B#50(Mid), A#20(Low)
+- The motherboard should be capable of OC (overclocking), which is better.
+- Check for integrated Wi-Fi, which is a must.
+- Check for PCLe generation (5th Gen is better).
+- Check No. of RAM slots (4 slots better).
+- Check No. of SSD/SATA slots.
 - The best motherboard brands are ASUS, MSI, GIGABYTE, ASRock, BIOSTAR, NZXT, etc.
+> Not all the motherboards supports all the processor's brands and generation/series, be specific.
 
 ## RAM
 - Check processor details to determine memory type (ddr3/ddr4/ddr5), CAS Latency (CL40/CL36) and memory speed(3200Mhz/5600Mhz/6000Mhz etc)
@@ -82,7 +84,7 @@ https://bitkart.com/custom-rig-final.html
 - Air-cooling fan is enough for productivity and the CPU power is less than 65 watts since it is low cost.
 
 ## PSU 
-Select at least gold grade PSU.
+Select at least a gold-grade PSU.
 - 80 Plus White
 - 80 Plus Bronze
 - 80 Plus Silver
