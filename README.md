@@ -46,7 +46,7 @@ https://uk.pcpartpicker.com/list/
 # Installation
 
 ## Processor
-- Select wisely according to your needs, such as online editing(Intel), gaming(Ryzen), productivity, etc.
+- Select wisely according to your needs, such as online editing(Intel since providing more cores), gaming(Ryzen since minimum cores maximum performance), productivity, etc.
 - Check that the processor has integrated graphics(if needed)
 - Check whether the processor needs an additional cooler or not.
 - Need more patience installing the processor to the motherboard otherwise say boi boi to your Processor.
