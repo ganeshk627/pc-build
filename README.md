@@ -78,8 +78,12 @@ https://uk.pcpartpicker.com/list/
 - The Graphics Card should be capable of OC (Overclocking)
 
 ## Cabinet
-- Decide cabinet based on motherboard type (ATX, mATX, ITX)
+- Decide cabinet size based on motherboard form factor (ATX, mATX, ITX)
+- Check the cabinet support length of the Graphics card.
+- Check the cabinet support height of the CPU cooler fan (air-cooler) or length of the CPU cooler fan (liquid-cooler)
+- Check the cabinet support PSU we have selected
 - Check cabinet needs extra fans sized 92mm/120mm/140mm
+  
 > ATX is supported for all types of motherboard
 
 ## Cooling
