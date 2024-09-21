@@ -54,7 +54,7 @@ https://uk.pcpartpicker.com/list/
 
 ## Motherboard
 - Decide the size of the motherboard (Mini-ITX, Micro-ATX, ATX, E-ATX)
-- Select by either supports Intel(LGA1151(8th-9th)/LGA1200(10th-11th)/LGA1700(12th-13th)) or AMD Ryzen(am4/am5) based on processor selection.
+- Select by either supports Intel(LGA1151(8th-9th)/LGA1200(10th-11th)/LGA1700(12th-13th)) or AMD Ryzen(am4/am5(7000-9000)) based on processor selection.
   - Intel chip motherboards starts with Z#90(High)/B#60(Mid)/H#10(Low)
   - AMD chip motherboards starts with X#70(High), B#50(Mid), A#20(Low)
 - The motherboard should be capable of OC (overclocking), which is better.
