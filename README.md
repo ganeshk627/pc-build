@@ -63,7 +63,10 @@ https://bitkart.com/custom-rig-final.html
 - Check processor details to determine memory type (ddr3/ddr4/ddr5) and memory speed(3200Mhz/5200Mhz etc)
 - Always use the second slot if we have more RAM slots than we will install.
 - It is always better to split the RAM sizes to utilize the RAM slot(s)
-- Best RAM brands are Corsair(Vengeance), GSKILL(Trident, Ripjaws), Kingston (Fury), Crucial (Ballistix), Samsung, Adata, etc.
+- Best RAM brands are Corsair (Vengeance), GSKILL(Trident, Ripjaws), Kingston (Fury), Crucial (Ballistix), Samsung, Adata, etc.
+
+## SSD
+- Best SSD brands are Crucial, Western Digital Blue, Solidigm, Corsair, ADATA, Samsung, etc.
 
 ## Graphics Card
 - The Graphics Card should be capable of OC (Overclocking)
