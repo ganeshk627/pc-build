@@ -29,8 +29,8 @@ https://uk.pcpartpicker.com/list/
 
 # Components for our PC
 ## 4 Components should never be compromised
-1. Motherboard
-2. Processor (CPU)
+1. Processor (CPU)
+2. Motherboard
 3. Graphics Card (if gaming and editing)
 4. SMPS (PSU - Power Supply Unit)
 ## Other components/ tools
@@ -46,7 +46,7 @@ https://uk.pcpartpicker.com/list/
 # Installation
 
 ## Processor
-- Select wisely according to your needs, such as online editing, gaming, productivity, etc.
+- Select wisely according to your needs, such as online editing(Intel), gaming(Ryzen), productivity, etc.
 - Check that the processor has integrated graphics(if needed)
 - Check whether the processor needs an additional cooler or not.
 - Need more patience installing the processor to the motherboard otherwise say boi boi to your Processor.
