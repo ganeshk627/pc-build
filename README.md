@@ -30,7 +30,7 @@ https://bitkart.com/custom-rig-final.html
 2. Processor (CPU)
 3. Graphics Card (if gaming and editing)
 4. SMPS (PSU - Power Supply Unit)
-## Other components
+## Other components/ tools
 5. RAM/Memory
 6. SSD/ HDD Storage
 7. Cabinet
@@ -43,13 +43,14 @@ https://bitkart.com/custom-rig-final.html
 # Installation
 
 ## Processor
-- Check whether the processor needs an additional cooler or not.
+- Select wisely according to your needs, such as online editing, gaming, productivity, etc.
 - Check that the processor has integrated graphics(if needed)
-- Need more patience installing it otherwise say boi boi to your Processor.
-- Apply the thermal paste.
+- Check whether the processor needs an additional cooler or not.
+- Need more patience installing the processor to the motherboard otherwise say boi boi to your Processor.
+- Apply the correct amount of thermal paste while installing the cooler.
 
 ## Motherboard
-- Supports Intel(LGA1151(8th-9th)/LGA1200(10th-11th)/LGA1700(12th-13th)) or AMD Ryzen(am4/am5) based on processor selection
+- Select the one which supports Intel(LGA1151(8th-9th)/LGA1200(10th-11th)/LGA1700(12th-13th)) or AMD Ryzen(am4/am5) based on processor selection
 - Intel chip motherboards starts with Z#90(High)/B#60(Mid)/H#10(Low)
 - AMD chip motherboards starts with X#70(High), B#50(Mid), A#20(Low)
 - The motherboard should be capable of OC (Overclocking)
