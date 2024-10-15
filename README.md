@@ -27,6 +27,12 @@ https://uk.pcpartpicker.com/list/
 - [Build Your Lenovo LOQ 12th Gen, 39.62cms - Intel(GeForce RTX™ 2050)](https://www.lenovo.com/in/en/p/laptops/loq-laptops/lenovo-loq-15iax9/83gscto1wwin1)
 - [Build Your Lenovo LOQ 14th Gen, 39.62cms - Intel(Arc™ A530M)](https://www.lenovo.com/in/en/p/laptops/loq-laptops/lenovo-loq-iax9i-gen-9-15-inch-intel/83fqcto1wwin1)
 
+# Stores to buy components
+
+https://elitehubs.com/
+
+https://mdcomputers.in/
+
 # Components for our PC
 ## 4 Components should never be compromised
 1. Processor (CPU)
