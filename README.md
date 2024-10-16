@@ -82,6 +82,9 @@ https://mdcomputers.in/
 
 ## Graphics Card
 - The Graphics Card should be capable of OC (Overclocking)
+- Best Graphics card brands like Asus, MSI, Sapphire (best for AMD)
+- [Slash Gear Ranks](https://www.slashgear.com/1304633/major-graphics-card-brands-ranked/)
+- Gigabyte is not having good reviews when comes to graphics card.
 
 ## Cabinet
 - Decide cabinet size based on motherboard form factor (ATX, mATX, ITX)
